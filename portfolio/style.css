@@ -404,7 +404,7 @@ footer ul{
 @media(min-width: 300px){
     .intro-img
     {
-        max-height: 400px;
+        max-height: 80%;
         min-width: 100%;
     }
    .about-me_img{
