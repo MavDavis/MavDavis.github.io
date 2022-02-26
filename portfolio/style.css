@@ -402,13 +402,11 @@ footer ul{
     margin-right: auto;
 }
 @media(max-width: 400px){
-    .about-me_img,
     .intro-img
     {
         max-height: 100%;
         min-width: 100%;
     }
-    /* .intro2{
-        padding: 0;
-    } */
+   .about-img{
+      max-height:300px;
 }
